@@ -1,0 +1,10 @@
+LangChain
+numpy
+pandas
+scikit-learn
+torch
+transformers
+langchain-openai
+langchain-huggingface
+langchain-text-splitters
+langchain-community
